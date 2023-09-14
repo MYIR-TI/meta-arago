@@ -53,7 +53,6 @@ UTILS:append:k3 = " mmc-utils \
                     irqbalance \
                     ti-rpmsg-char \
                     ti-rpmsg-char-examples \
-                    statcol \
 "
 
 UTILS:append:k3 = " ti-rtos-firmware"

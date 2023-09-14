@@ -8,10 +8,10 @@ branch: master
 revision: HEAD
 layers: meta
 
-URI: git://git.yoctoproject.org/meta-ti
+URI: git://git.yoctoproject.org/meta-myir
 branch: master
 revision: HEAD
-layers: meta-ti-bsp, meta-ti-extras
+layers: meta-myir-bsp, meta-myir-extras
 
 URI: git://git.yoctoproject.org/meta-arm
 branch: master

@@ -635,7 +635,7 @@ EOF
 
         if [ "$extra_files" = "1" ]
         then
-            source="$source"" <br>Files from:<br><a href=https://git.yoctoproject.org/meta-arago>https://git.yoctoproject.org/meta-arago</a><br><a href=https://git.yoctoproject.org/meta-ti>https://git.yoctoproject.org/meta-ti</a>"
+            source="$source"" <br>Files from:<br><a href=https://git.yoctoproject.org/meta-arago>https://git.yoctoproject.org/meta-arago</a><br><a href=https://git.yoctoproject.org/meta-myir>https://git.yoctoproject.org/meta-myir</a>"
         fi
 
         case "$package" in
